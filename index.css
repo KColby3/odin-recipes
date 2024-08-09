@@ -4,4 +4,25 @@
 }
 h1 {
     margin: 12px auto;
+    text-align: center;
+}
+
+div{
+    background-color: lightgreen;
+    color: black;
+    margin: 12px auto;
+    text-align: center;
+}
+li{
+    display: inline;
+}
+#paella {
+    margin-left: 12px;
+}
+#tacos{
+    margin-right: 20%;
+    margin-left: 20%;
+}
+#spaghetti {
+    margin-right: 12px;
 }
